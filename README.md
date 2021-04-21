@@ -23,12 +23,8 @@ threadpoolctl==2.1.0
 Werkzeug==1.0.1
 
 
-# Car Price Predictor
+# Used Car Price Predictor
 
-Project link: https://car-price-price.herokuapp.com
-Demo Video: https://youtu.be/HEaFU68WAPM
-
-<img src="https://github.com/rajtilakls2510/car_price_predictor/blob/master/demo.png">
 
 
 For Run the model you have to run "application.py" file.
